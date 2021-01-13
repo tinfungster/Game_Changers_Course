@@ -10,3 +10,7 @@ This is where I put the code for games in Tiffin's Game Changers Course.
 ##### Yours faithfully,
 
 ##### Tin Long (7 SER) .
+
+##### Link to the course:
+
+##### https://sites.google.com/tiffin.kingston.sch.uk/computing/game-changers
